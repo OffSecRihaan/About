@@ -1,3 +1,3 @@
 # About
 
-anything
+nothing
