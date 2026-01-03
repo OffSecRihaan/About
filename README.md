@@ -1,3 +1,3 @@
 # About
 
-allthings
+allthings of things
